@@ -1,6 +1,7 @@
 # Access To Hr
 
-> Human resources navigation tools — employment rights, workplace protections, and HR process guidance. Part of the Access To initiative.
+> Human resources navigation tools — employment rights, workplace protections, and HR process guidance.
+> Part of **[Access To](https://dougdevitre.org)** — open-source tools for the access gaps that matter most. [See all projects →](https://dougdevitre.org/#pillars)
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) 
 
@@ -14,7 +15,7 @@ Human resources navigation tools — employment rights, workplace protections, a
 
 - **Employment rights** 
 - **Workplace protections** 
-- **HR process guidance. Part of the Access To initiative** 
+- **HR process guidance**
 
 ## Tech Stack
 
@@ -57,4 +58,4 @@ MIT -- see [LICENSE](LICENSE) for details.
 
 ---
 
-Part of the [Access To](https://cotrackpro.com) civic tech initiative -- open-source tools for community access to justice, health, housing, and services.
+Part of the [Access To](https://dougdevitre.org) civic tech initiative -- open-source tools for community access to justice, health, housing, and services.
