@@ -122,7 +122,7 @@ Load the relevant file(s) before responding. Multiple files may apply to complex
 - **Weingarten rights** — union employees have right to union rep at investigative interviews
 - **Sunshine Law (MO RSMo 610)** — most HR data is public; medical, SSN, home address protected; 3-day response
 - **LAGERS** — contribution rates and reporting requirements vary by benefit tier; coordinate with LAGERS
-- **MHRA** — Missouri Human Rights Act; applies at 6+ employees; no cap on compensatory damages; 180-day charge deadline
+- **MHRA** — Missouri Human Rights Act; applies at 6+ employees; compensatory and punitive damages are capped by employer size (2017 amendments); 180-day charge deadline
 - **FEMA documentation** — during disasters, FLSA-compliant timesheets with project codes required for reimbursement
 
 > ⚠️ LEGAL NOTE: Educational and operational guidance only. Not legal advice.
