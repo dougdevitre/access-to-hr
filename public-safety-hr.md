@@ -57,7 +57,7 @@ enforcement officers in Missouri (and most states).
 ### Missouri POST Requirements
 
 - Initial certification: complete a POST-approved academy + pass written/physical exam
-- Continuing education: 48 hours per 3-year cycle (Missouri)
+- Continuing education: 24 hours of continuing law enforcement education (CLEE) each calendar year (Missouri POST)
 - Specialized certifications: taser, firearms instructor, K-9, accident reconstruction, etc.
 - Decertification: felony conviction, dishonesty findings, certain terminations trigger POST
   to revoke certification — county HR must report qualifying events to Missouri POST
@@ -93,13 +93,13 @@ Build a custom report:
 | Firefighter I / II | IFSAC or ProBoard / state fire academy | Varies by state |
 | EMT / Paramedic | State EMS office | 2–3 year recertification |
 | Hazmat Operations / Technician | State fire marshal | Renewal training required |
-| NFPA 1582 Physical | Physician | Annual (NFPA recommendation) |
+| NFPA 1580 Physical (formerly NFPA 1582) | Physician | Annual (NFPA recommendation) |
 | Incident Command (ICS 100/200/300/400) | FEMA/NIMS | No expiration but update if NIMS changes |
 | Driver/Operator | State or department | Annual driver evaluation |
 
 ### Annual Physical Requirements
 
-Many fire departments require annual physicals per NFPA 1582. HR should:
+Many fire departments require annual physicals per NFPA 1580 (the 2025 standard that absorbed NFPA 1582). HR should:
 - Track due dates in Workday certifications
 - Coordinate with department for scheduling
 - Flag any officer who fails the physical — triggers accommodation / light duty / disability retirement review
@@ -185,7 +185,7 @@ Sworn officers require the most extensive pre-employment screening of any county
 | Psychological evaluation | Required by most POST standards | Licensed psychologist; confidential |
 | Polygraph | Optional; many departments use | Not admissible in court but usable for employment |
 | Physical fitness test | Required at hire | POPAT or department-specific |
-| Medical examination | Required | NFPA 1582 or department physical standards |
+| Medical examination | Required | NFPA 1580 (formerly NFPA 1582) or department physical standards |
 | Background investigation | 10-year employment/residential history | Investigator interviews; weeks-long process |
 | Drug testing | Required; random ongoing | DOT-standard for some positions |
 | Credit check | Optional; some departments | FCRA compliance required |

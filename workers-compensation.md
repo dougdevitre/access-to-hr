@@ -32,8 +32,8 @@ County governments typically use one of:
 
 ### Statute of Limitations
 
-- Report an accident to the WC carrier within **30 days** of injury
-- Employee must file a WC claim with the Division within **2 years** of injury (3 years for occupational disease)
+- Employee must give the employer written notice of the injury within **30 days**
+- Employee must file a WC claim with the Division within **2 years** of injury (some exceptions extend this; verify with an attorney)
 
 ---
 
@@ -44,7 +44,7 @@ County governments typically use one of:
 **Supervisor responsibilities:**
 1. Ensure employee receives immediate medical attention (send to ER if serious; urgent care for non-emergency)
 2. Notify HR same day
-3. Complete First Report of Injury form (FROI) — Missouri Form WC-2
+3. Complete First Report of Injury form (FROI) — Missouri Form WC-1 (Report of Injury)
 4. Preserve the scene; document what happened
 
 **HR responsibilities:**
@@ -64,8 +64,9 @@ loses control of treatment.
 
 ### First Report of Injury (FROI)
 
-Missouri Form WC-2 must be filed with the Division of Workers' Compensation within **5 days**
-of notice of a work-related injury or death.
+Employers must report every injury to their WC carrier or third-party administrator within **5 days**, and the
+First Report of Injury must be filed with the Division of Workers' Compensation within **30 days** of knowledge
+of a work-related injury or death.
 
 Fields required:
 - Employee name, DOB, SSN, hire date
@@ -186,11 +187,11 @@ If no modified duty is available:
 
 ## OSHA Recordkeeping (County Government)
 
-Most county government employers are covered by OSHA (or state equivalent).
+Federal OSHA does not cover state and local government employees in states without an OSHA-approved State Plan.
 
 ### Missouri OSHA Coverage
 
-Missouri is a **Federal OSHA state** (no state plan). Federal OSHA standards apply to county government in Missouri.
+Missouri has **no OSHA-approved State Plan**, so federal OSHA standards and recordkeeping rules do not legally cover county government employees in Missouri. Many counties keep OSHA-style logs as a best practice; confirm your obligations with county counsel.
 
 ### Recordable Injuries (OSHA 300 Log)
 

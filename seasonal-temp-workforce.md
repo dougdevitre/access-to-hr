@@ -180,13 +180,13 @@ Under FLSA, unpaid internships in the private sector are very restricted. For go
 
 ### Special FLSA Status
 
-Election workers (poll workers, precinct election judges) are subject to a special FLSA
-exemption: election workers paid less than $2,000/year (indexed) are not subject to
+Election workers (poll workers, precinct election judges) are subject to a special FICA
+exclusion: election workers paid less than $2,000/year (indexed) are not subject to
 Social Security and Medicare (FICA) taxes. Some states have additional exemptions.
 
 ### IRS Reporting
 
-- If election worker earns ≥$600: issue 1099-MISC
+- If election worker earns ≥$600: issue Form W-2, not Form 1099-MISC (IRS election worker guidance)
 - Social Security / Medicare: consult county tax advisor and IRS Publication 963
 - Missouri: verify state withholding requirements for election workers
 

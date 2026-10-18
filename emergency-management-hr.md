@@ -85,7 +85,7 @@ Some counties allow employees affected by the disaster (home damage, family care
 
 ### Voluntary Emergency Response Leave
 
-Missouri RSMo § 44.250 et seq. governs state emergency response. Some provisions may apply to employees who are licensed emergency responders (firefighters, EMTs, medical professionals) volunteering during a disaster.
+Missouri's civil defense law (RSMo Chapter 44) governs state emergency response. Some provisions may apply to employees who are licensed emergency responders (firefighters, EMTs, medical professionals) volunteering during a disaster.
 
 ---
 

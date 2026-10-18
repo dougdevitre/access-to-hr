@@ -20,7 +20,7 @@ or legal proceeding.
 | Payroll records (time, pay) | 3 years | FLSA |
 | Payroll records (FMLA) | 3 years | FMLA regulations |
 | I-9 forms | Longer of: 3 years from hire OR 1 year after separation | IRCA |
-| EEO records / applicant data | 1 year from creation or action date | Title VII / EEOC |
+| EEO records / applicant data | 2 years from creation or action date (state and local governments) | Title VII / EEOC |
 | OSHA 300/300A/301 | 5 years | OSHA |
 | ACA records | 6 years recommended | IRS / ACA |
 | Benefit plan documents | 6 years | ERISA |
@@ -141,7 +141,7 @@ I-9 forms must be:
 | Paper binder (alphabetical or by date) | Simple; hard to search; risk of physical loss |
 | Electronic I-9 system (e.g., I9Advantage, Tracker I-9) | Best practice; audit trail; expiration alerts |
 | Workday I-9 module (if configured) | Integrated; available in some Workday configurations |
-| E-Verify (supplements but doesn't replace I-9) | Required for federal contractors; voluntary for others |
+| E-Verify (supplements but doesn't replace I-9) | Required for federal contractors and, under Missouri law, for public employers such as counties (confirm with county counsel) |
 
 ### I-9 Self-Audit
 
