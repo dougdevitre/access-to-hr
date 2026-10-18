@@ -6,7 +6,7 @@
 <!-- END DISCLAIMER -->
 
 > Human resources navigation tools — employment rights, workplace protections, and HR process guidance.
-> Part of **[Access To](https://dougdevitre.org)** — open-source tools for the access gaps that matter most. [See all projects →](https://dougdevitre.org/#pillars)
+> Part of **[Access To](https://dougdevitre.github.io/access-to/)** — open-source tools for the access gaps that matter most. [See all projects →](https://dougdevitre.github.io/access-to/about.html#pillars)
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) 
 
@@ -63,4 +63,4 @@ MIT -- see [LICENSE](LICENSE) for details.
 
 ---
 
-Part of the [Access To](https://dougdevitre.org) civic tech initiative -- open-source tools for community access to justice, health, housing, and services.
+Part of the [Access To](https://dougdevitre.github.io/access-to/) civic tech initiative -- open-source tools for community access to justice, health, housing, and services.
