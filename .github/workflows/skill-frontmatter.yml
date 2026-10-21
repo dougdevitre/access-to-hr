@@ -1,0 +1,28 @@
+name: Skill frontmatter
+
+# claude.ai rejects a skill upload when SKILL.md breaks its frontmatter rules
+# (name: <=64 chars of [a-z0-9-]; description: <=1,024 chars, no XML tags).
+# This runs the same check on every pull request so an over-long description
+# is caught before merge instead of at upload time.
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  frontmatter:
+    name: Check SKILL.md frontmatter
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
+
+      # The skill's name is workday-county-hr, so that is the folder name it
+      # must be uploaded under (the repo name differs).
+      - name: Check SKILL.md frontmatter meets the claude.ai upload rules
+        run: |
+          python3 -c 'import yaml' 2>/dev/null || python3 -m pip install --quiet pyyaml
+          python3 .github/scripts/check-skill-frontmatter.py SKILL.md workday-county-hr

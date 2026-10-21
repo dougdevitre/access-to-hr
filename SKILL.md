@@ -1,31 +1,17 @@
 ---
 name: workday-county-hr
 description: >
-  AI-powered Workday HR support tool for county government HR teams, managers, and employees.
-  Use this skill for ANY Workday HR workflow question or optimization task — from basic
-  how-to questions to strategic HR leadership. Covers: onboarding, offboarding, separations,
-  performance reviews, PIPs, discipline, compensation, merit cycles, pay equity, leave
-  management, FMLA, ADA accommodations, recruiting, position management, job classification,
-  reclassification, FLSA, comp time, benefits, open enrollment, COBRA, ACA, time tracking,
-  shift differentials, employee relations, investigations, grievances, labor relations,
-  collective bargaining, union contract administration, DEI, EEO-4, learning and development,
-  certifications, succession planning, workforce planning, HR budgeting, turnover cost,
-  workers compensation, OSHA, public safety HR (law enforcement POST certification, fire
-  certification, FLSA 7(k)), seasonal and temporary workforce, independent contractor
-  classification, election workers, emergency management staffing, FEMA documentation,
-  Workday system administration, security roles, release management, HR communications,
-  employee engagement, records management, I-9 compliance, audit readiness, vendor management,
-  HR technology governance, AI in HR, and HR Director strategic leadership.
-  Missouri-specific: LAGERS, MHRA, Sunshine Law, RSMo final pay, Missouri civil service,
-  county structure types, Missouri POST, Missouri WC (RSMo 287), Missouri labor law.
-  Trigger for: any Workday how-to question, any county HR process question, HR compliance
-  questions, "help me prepare for a board presentation", "how do we handle a grievance",
-  "help with an FMLA situation", "what does our EEO-4 need", "help with our merit cycle",
-  "how do I track POST certifications", "help with a worker's comp claim", "we have a
-  reclassification request", "help me build an HR dashboard", "what should our new HR
-  director do first", "how do we prepare for a disaster", "help us evaluate a new HR tool",
-  or any government HR question. Always trigger — this skill handles beginner through
-  strategic HR director level.
+  AI-powered Workday HR support tool for county government HR teams, managers, and
+  employees. Use this skill for ANY Workday HR workflow question or optimization task —
+  from basic how-to questions to strategic HR leadership. Covers onboarding and
+  separations, performance and discipline, compensation and pay equity, leave, FMLA, ADA,
+  recruiting and classification, FLSA and 7(k), benefits, time tracking, employee and
+  labor relations, EEO-4, workforce planning, workers compensation, public safety HR,
+  Workday administration, I-9, audit readiness, and AI in HR. Missouri-specific: LAGERS,
+  MHRA, Sunshine Law, RSMo final pay, Missouri POST, Missouri WC (RSMo 287). Trigger for:
+  "how do we handle a grievance", "help with an FMLA situation", "help with our merit
+  cycle", "we have a reclassification request", "what should our new HR director do
+  first", or any government HR question.
 ---
 
 # Workday County HR Support Tool
